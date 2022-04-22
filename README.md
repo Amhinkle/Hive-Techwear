@@ -6,6 +6,8 @@ E-Commerce App, with a frontend built in React & Redux and a backend built in Dj
 
 ![Capture](https://raw.githubusercontent.com/Amhinkle/Hive-Techwear/main/HIVE.PNG)
 
+## Contributers- eaize, MiNombreEsAbe, Amhinkle
+
 ## Live Demo
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
