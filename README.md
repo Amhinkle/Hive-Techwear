@@ -1,12 +1,11 @@
 # E-Commerce App in React & Redux + Django
-
+## Contributers- eaize, MiNombreEsAbe, Amhinkle
 ```
 E-Commerce App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
 ![Capture](https://raw.githubusercontent.com/Amhinkle/Hive-Techwear/main/HIVE.PNG)
 
-## Contributers- eaize, MiNombreEsAbe, Amhinkle
 
 ## Live Demo
 
