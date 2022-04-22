@@ -1,5 +1,5 @@
 # E-Commerce App in React & Redux + Django
-## Contributers- eaize, MiNombreEsAbe, Amhinkle
+## Contributors- eaize, MiNombreEsAbe, Amhinkle
 ```
 E-Commerce App, with a frontend built in React & Redux and a backend built in Django API.
 ```
