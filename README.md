@@ -4,7 +4,7 @@
 E-Commerce App, with a frontend built in React & Redux and a backend built in Django API.
 ```
 
-![Capture](https://raw.githubusercontent.com/MiNombreEsAbe/hive-techwear-frontend/main/HIVE.PNG)
+![Capture](https://raw.githubusercontent.com/Amhinkle/Hive-Techwear/main/HIVE.PNG)
 
 ## Live Demo
 
